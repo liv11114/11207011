@@ -273,3 +273,34 @@ x.remove(4)：這之中的4為刪除的數值。
 ![圖片3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bdad2eb7-5889-4e14-bf13-52f94edd0891/%E5%9C%96%E7%89%873.png)
 
 ## 3.**Visual Studio Code切換成中文版**
+
+![圖片7.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ca93f7d0-ee1a-493e-892c-6e5ee4632504/%E5%9C%96%E7%89%877.png)
+
+[Visual Studio Code ( VS Code) 切換成中文版(圖文教學版) - 免費資源社群](https://www.citerp.com.tw/citwp2/2022/07/05/vscode-1/)
+
+## 4.下載Python
+
+![圖片8.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/36398cac-30ff-489e-b96d-546e7b296cb1/%E5%9C%96%E7%89%878.png)
+
+[Download Python](https://www.python.org/downloads/)
+
+## 5.新增Jupyter Notebook
+
+![圖片9.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/db12e9ee-415c-4ccd-a95f-d1e87fa74cc8/%E5%9C%96%E7%89%879.png)
+
+### 5-1.寫出程式
+
+![圖片5.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/90b0d8d3-81a3-4534-8904-a2a4c22f29d2/%E5%9C%96%E7%89%875.png)
+
+## 6.**撰寫一支Python程式**
+
+![圖片4.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/135c278b-5759-4c5a-beb7-f2da19816aa0/%E5%9C%96%E7%89%874.png)
+
+[](https://ithelp.ithome.com.tw/articles/10212365)
+
+## 7.makecode
+
+## 8.****ShareX 電腦免費截圖工具****
+[ShareX 中文版免費下載－電腦螢幕截圖&螢幕畫面錄影！免安裝、教學。（Windows）](https://www.pkstep.com/archives/62756)
+
+![圖片10.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ab95058c-d5cf-4803-940c-6b239b6fadad/%E5%9C%96%E7%89%8710.png)

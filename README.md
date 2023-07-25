@@ -249,7 +249,7 @@ x.remove(4)：這之中的4為刪除的數值。
 
 # [第五天](https://helpful-duckling-581.notion.site/1ba157da19a04837863ac72c98337da3?pvs=4)
 
-> Visaul Studio Code、
+> Visaul Studio Code、Markdown、ShareX
 > 
 
 ## 1.安裝 VS Code
@@ -292,7 +292,7 @@ x.remove(4)：這之中的4為刪除的數值。
 
 [](https://ithelp.ithome.com.tw/articles/10212365)
 
-## 7.makecode
+## 7.Markdown
 
 ## 8.****ShareX 電腦免費截圖工具****
 

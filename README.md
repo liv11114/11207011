@@ -36,7 +36,7 @@
 
 https://www.youtube.com/watch?v=XFNgFlvJPwQ
 
-## 資料查詢方法：ChatGPT、YT、Google、GitHub……。
+### 資料查詢方法：ChatGPT、YT、Google、GitHub……。
 
 ## 5、****Python 之父****
 

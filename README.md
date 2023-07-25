@@ -57,7 +57,7 @@ https://www.youtube.com/watch?v=XFNgFlvJPwQ
 
 ![圖片4.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/05147d96-ded3-43df-abdb-07434552d2e1/%E5%9C%96%E7%89%874.jpg)
 
-## 3.****資料****容器：tuple、list、dict(字典類型)、set
+### 3.****資料****容器：tuple、list、dict(字典類型)、set
 
 [](https://ithelp.ithome.com.tw/m/articles/10268993)
 

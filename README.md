@@ -159,13 +159,7 @@ shell：一行一行執行程式碼。
 
 ### append：x.append()，不能(數字 , 數字)，能(數字)；如果加[數字 , 數字]在( )裡面，會變成(數字 ,數字 ,數字 ,數字 ,數字 ,[數字 , 數字])
 
-例：x=[1,2,3,4]
-
->>>x.append([5,6])
-
->>>x
-
->>>[1,2,3,4,[5,6]]
+# 例：x=[1,2,3,4]，x.append([5,6])，x，[1,2,3,4,[5,6]]
 
 ![圖片5.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cd1bfe99-e89f-4579-87c8-b5e48ef41986/%E5%9C%96%E7%89%875.jpg)
 
@@ -301,7 +295,15 @@ x.remove(4)：這之中的4為刪除的數值。
 ## 7.makecode
 
 ## 8.****ShareX 電腦免費截圖工具****
+
+![圖片16.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e1d8293f-9420-4f90-91a5-c47aea1d46dd/%E5%9C%96%E7%89%8716.jpg)
+
+### 先點選Download，在點選Setup下載。
+
+![圖片10.png](https://i.imgur.com/74ptCnJ.jpeg)
+
 [ShareX 中文版免費下載－電腦螢幕截圖&螢幕畫面錄影！免安裝、教學。（Windows）](https://www.pkstep.com/archives/62756)
 
 [ShareX 電腦免費截圖工具 – 可上傳雲端空間或網路圖床，也可擷取圖片文字](https://kkplay3c.net/sharex/#ShareX_%E6%9C%89%E5%85%8D%E5%AE%89%E8%A3%9D%E7%89%88%E6%9C%AC%E3%80%81%E5%AE%89%E8%A3%9D%E7%89%88%E6%9C%AC)
-![圖片10.png](https://i.imgur.com/nbuvFzK.png)
+
+[ShareX - The best free and open source screenshot tool for Windows](https://getsharex.com/)

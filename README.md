@@ -3,7 +3,7 @@
 
 # [第一天](https://helpful-duckling-581.notion.site/c33563afb7ae4d8a803c3bd3dbe011fa?pvs=4)
 
-> 目標、最受歡迎的程式語言、Python變數種類、GitHub建立、Python_Turtle_Graphics(Colab Turtle)、****Python 之父****
+> 目標、最受歡迎的程式語言、Python變數種類、GitHub建立、Python_Turtle_Graphics(Colab Turtle)、****Python 之父****、ChatGPT、YT、Google、GitHub
 > 
 
 # 目標：賺錢

@@ -300,7 +300,7 @@ x.remove(4)：這之中的4為刪除的數值。
 
 ### 先點選Download，在點選Setup下載。
 
-![圖片10.png](https://i.imgur.com/74ptCnJ.jpeg)
+![圖片10.png](https://i.imgur.com/uLd97Yu.png)
 
 [ShareX 中文版免費下載－電腦螢幕截圖&螢幕畫面錄影！免安裝、教學。（Windows）](https://www.pkstep.com/archives/62756)
 

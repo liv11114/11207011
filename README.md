@@ -303,4 +303,4 @@ x.remove(4)：這之中的4為刪除的數值。
 ## 8.****ShareX 電腦免費截圖工具****
 [ShareX 中文版免費下載－電腦螢幕截圖&螢幕畫面錄影！免安裝、教學。（Windows）](https://www.pkstep.com/archives/62756)
 
-![圖片10.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ab95058c-d5cf-4803-940c-6b239b6fadad/%E5%9C%96%E7%89%8710.png)
+![圖片10.png](https://i.imgur.com/nbuvFzK.png)

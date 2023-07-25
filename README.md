@@ -26,7 +26,7 @@
 
 ### str：字串
 
-### 3.GitHub建立：
+## 3.GitHub建立：
 
 ![Screenshot_20230711-122105969_1 (1).jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8b9957ad-6204-4cda-b3ad-0bc5098750a4/Screenshot_20230711-122105969_1_(1).jpg)
 

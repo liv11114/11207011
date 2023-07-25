@@ -260,7 +260,7 @@ x.remove(4)：這之中的4為刪除的數值。
 
 ## 1.安裝 VS Code
 
-![圖片1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/afce1f65-f88b-4d2a-8178-5f430eec1145/%E5%9C%96%E7%89%871.png)
+![圖片1.png]([https://s3-us-west-2.amazonaws.com/secure.notion-static.com/afce1f65-f88b-4d2a-8178-5f430eec1145/%E5%9C%96%E7%89%871.png](https://i.imgur.com/fQYm7AO.png)
 
 [Visual Studio Code ( VS Code) 安裝教學(使用Python) - 免費資源社群](https://www.citerp.com.tw/citwp2/2021/12/22/vs-code_python_01/)
 

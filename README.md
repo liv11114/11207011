@@ -294,6 +294,8 @@ x.remove(4)：這之中的4為刪除的數值。
 
 ## 7.Markdown
 
+
+
 ## 8.****ShareX 電腦免費截圖工具****
 
 ![圖片16.jpg](https://i.imgur.com/nh8NywP.jpeg)

@@ -296,7 +296,7 @@ x.remove(4)：這之中的4為刪除的數值。
 
 ## 8.****ShareX 電腦免費截圖工具****
 
-![圖片16.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e1d8293f-9420-4f90-91a5-c47aea1d46dd/%E5%9C%96%E7%89%8716.jpg)
+![圖片16.jpg](https://i.imgur.com/er2orxm.jpeg)
 
 ### 先點選Download，在點選Setup下載。
 

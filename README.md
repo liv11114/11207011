@@ -18,15 +18,15 @@
 
 ![Screenshot_20230711-121017376_1.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/825a926e-15dc-4e95-901f-106e7c97dee2/Screenshot_20230711-121017376_1.jpg)
 
-## int：為整數
+### int：為整數
 
-## float：可顯示小數點
+### float：可顯示小數點
 
-## bool：可辨True和False
+### bool：可辨True和False
 
-## str：字串
+### str：字串
 
-## 3.GitHub建立：
+### 3.GitHub建立：
 
 ![Screenshot_20230711-122105969_1 (1).jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8b9957ad-6204-4cda-b3ad-0bc5098750a4/Screenshot_20230711-122105969_1_(1).jpg)
 

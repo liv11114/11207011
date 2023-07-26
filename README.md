@@ -237,7 +237,7 @@ x.remove(4)：這之中的4為刪除的數值。
 
 ![圖片11.jpg](https://i.imgur.com/L1gBOVM.jpeg)
 
-![圖片12.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f7fde211-ba09-4a10-8209-8a3803d5da01/%E5%9C%96%E7%89%8712.jpg)
+![圖片12.jpg](https://i.imgur.com/pc1qCYs.jpeg)
 
 ![圖片13.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e7ac5c23-9be1-484a-964a-fd2948fa0003/%E5%9C%96%E7%89%8713.jpg)
 

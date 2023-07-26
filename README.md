@@ -173,7 +173,7 @@ del x[2]：這之中的2為刪除的位置。
 
 0=1,1=2,2=3……。
 
-![圖片5.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4863ff64-c64c-4aed-ae08-d695610e5b4e/%E5%9C%96%E7%89%875.png)
+![圖片5.png](https://i.imgur.com/GM4CBDj.png)
 
 ### insert
 
@@ -183,7 +183,7 @@ insert(0,1)：
 
 1：加入的數字。
 
-![圖片6.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/90462a9f-4ced-4392-a26b-f0a49ffe1b18/%E5%9C%96%E7%89%876.png)
+![圖片6.png](https://i.imgur.com/qZiYNOx.png)
 
 ### clear：會刪除原先存在的值。
 

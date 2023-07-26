@@ -10,7 +10,7 @@
 
 # 1.目前最受歡迎的程式語言：
 
-![1.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/142d537b-c87d-4145-a717-74512ec8e149/1.jpg)
+![1.jpg](https://i.imgur.com/jAwjIET.jpeg)
 
 [【比較】2023 程式語言排名與分析，該學習哪一種程式語言？](https://www.johntool.com/programming-language-rank/)
 
@@ -268,19 +268,19 @@ x.remove(4)：這之中的4為刪除的數值。
 
 ## 3.**Visual Studio Code切換成中文版**
 
-![圖片7.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ca93f7d0-ee1a-493e-892c-6e5ee4632504/%E5%9C%96%E7%89%877.png)
+![圖片7.png](https://i.imgur.com/0TpmK9a.png)
 
 [Visual Studio Code ( VS Code) 切換成中文版(圖文教學版) - 免費資源社群](https://www.citerp.com.tw/citwp2/2022/07/05/vscode-1/)
 
 ## 4.下載Python
 
-![圖片8.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/36398cac-30ff-489e-b96d-546e7b296cb1/%E5%9C%96%E7%89%878.png)
+![圖片8.png](https://i.imgur.com/MkxRve8.png)
 
 [Download Python](https://www.python.org/downloads/)
 
 ## 5.新增Jupyter Notebook
 
-![圖片9.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/db12e9ee-415c-4ccd-a95f-d1e87fa74cc8/%E5%9C%96%E7%89%879.png)
+![圖片9.png](https://i.imgur.com/9IAZSvG.png)
 
 ### 5-1.寫出程式
 

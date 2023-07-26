@@ -187,15 +187,15 @@ insert(0,1)：
 
 ### clear：會刪除原先存在的值。
 
-![圖片13.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5dbc5937-827f-4ca2-9250-f343efbae06f/%E5%9C%96%E7%89%8713.png)
+![圖片13.png](https://i.imgur.com/gRfMYQf.png)
 
 ### copy
 
-![圖片14.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bad04371-9052-4cdf-aaa7-9814dec2e77a/%E5%9C%96%E7%89%8714.png)
+![圖片14.png](https://i.imgur.com/ZJJyE9D.png)
 
 ### count：x.count(數字)，最終會顯示數字有幾個。
 
-![圖片12.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6890ae72-9498-4bd6-a1cd-9cd192442f22/%E5%9C%96%E7%89%8712.png)
+![圖片12.png](https://i.imgur.com/HYpmhQ2.png)
 
 ### index：尋找物件的位置。
 

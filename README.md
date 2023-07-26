@@ -34,7 +34,7 @@
 
 ![1689057816529.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c3207013-be7a-4365-98fd-39a15a81edd2/1689057816529.jpg)
 
-https://www.youtube.com/watch?v=XFNgFlvJPwQ
+[Google Colab 學習Python 也可以畫烏龜 -- 安裝 簡單使用(中文字幕)](https://www.youtube.com/watch?v=XFNgFlvJPwQ)
 
 ### 資料查詢方法：ChatGPT、YT、Google、GitHub……。
 

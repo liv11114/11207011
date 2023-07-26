@@ -241,9 +241,9 @@ x.remove(4)：這之中的4為刪除的數值。
 
 ![圖片13.jpg](https://i.imgur.com/JVtsr1N.jpeg)
 
-![圖片14.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0d630edf-56b9-4875-9621-9e854ad8372f/%E5%9C%96%E7%89%8714.jpg)
+![圖片14.jpg](https://i.imgur.com/BpAnMid.jpeg)
 
-[](https://github.com/tewei0328/teach-visulization/blob/main/viz1_finlab_yfinance.ipynb)
+[tewei0328/teach-visulization](https://github.com/tewei0328/teach-visulization/blob/main/viz1_finlab_yfinance.ipynb)
 
 [Historical Stock Price Data in Python](https://towardsdatascience.com/historical-stock-price-data-in-python-a0b6dc826836)
 

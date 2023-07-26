@@ -63,7 +63,7 @@
 
 ## 4.貪吃蛇遊戲_Spyder
 
-![圖片3.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de42c822-9159-4af8-987c-368555bc9b7c/%E5%9C%96%E7%89%873.jpg)
+![圖片3.jpg](https://i.imgur.com/j2m3j2M.jpeg)
 
 [ASMR Programming - Coding a Snake Game - No Talking](https://www.youtube.com/watch?v=Wlu4MsBnjuk&t=747s)
 

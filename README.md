@@ -209,7 +209,7 @@ insert(0,1)：
 
 x.remove(4)：這之中的4為刪除的數值。
 
-![圖片8.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/604612af-7627-4543-bfed-96678d8c1095/%E5%9C%96%E7%89%878.jpg)
+![圖片8.jpg](https://i.imgur.com/8sKhKgl.jpeg)
 
 ### reverse：把原先內容的倒返回來。
 

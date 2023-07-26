@@ -217,7 +217,7 @@ x.remove(4)：這之中的4為刪除的數值。
 
 ### sort：將原先內容排序。
 
-![圖片10.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3693c253-43b1-42ae-848a-2f58ae3b7817/%E5%9C%96%E7%89%8710.jpg)
+![圖片10.jpg](https://i.imgur.com/TiLHS5B.jpeg)
 
 [5. 資料結構](https://docs.python.org/zh-tw/3/tutorial/datastructures.html)
 

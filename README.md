@@ -32,7 +32,7 @@
 
 ## 4.Python_Turtle_Graphics(Colab Turtle)
 
-![1689057816529.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c3207013-be7a-4365-98fd-39a15a81edd2/1689057816529.jpg)
+![1689057816529.jpg](https://i.imgur.com/9TKgNA4.jpeg)
 
 [Google Colab 學習Python 也可以畫烏龜 -- 安裝 簡單使用(中文字幕)](https://www.youtube.com/watch?v=XFNgFlvJPwQ)
 

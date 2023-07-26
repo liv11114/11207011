@@ -225,13 +225,13 @@ x.remove(4)：這之中的4為刪除的數值。
 
 ## 3.list_Python_plot
 
-![圖片7.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dca5afcf-6d53-4d40-8147-774dfaaeab35/%E5%9C%96%E7%89%877.png)
+![圖片7.png](https://i.imgur.com/3xpXbzb.png)
 
 [Matplotlib Tutorial 2 | Plotting data from lists using Pyplot API](https://www.youtube.com/watch?v=K6eGR3inAm0)
 
 ### x軸=X軸，y軸=x軸的平方
 
-![圖片8.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fb4816af-231a-4f3d-bac0-90acb53f48a1/%E5%9C%96%E7%89%878.png)
+![圖片8.png](https://i.imgur.com/OW8r8NS.png)
 
 ### 4.**股市圖_mptplotlib**
 

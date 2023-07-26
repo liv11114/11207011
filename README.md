@@ -101,9 +101,9 @@ python -m pip install --upgrade pip
 
 ![圖片2.png](https://i.imgur.com/YFb6tCA.png)
 
-![圖片3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ada881d1-2ea7-4bc8-bc6c-3c1fb7208f4e/%E5%9C%96%E7%89%873.png)
+![圖片3.png](https://i.imgur.com/2ck3EE7.png)
 
-![圖片4.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/17d20f49-6d83-4ea7-a362-917e1049c21d/%E5%9C%96%E7%89%874.png)
+![圖片4.png](https://i.imgur.com/kepGmxt.png)
 
 ### NumPy：擴充程式庫，可支援多維陣列(如圖上所示：格點)和矩陣運算(如圖上所示：線性代數)，可針對陣列運算提供數學函式的函式庫。
 

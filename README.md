@@ -16,7 +16,7 @@
 
 # 2.Python變數種類：
 
-![Screenshot_20230711-121017376_1.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/825a926e-15dc-4e95-901f-106e7c97dee2/Screenshot_20230711-121017376_1.jpg)
+![Screenshot_20230711-121017376_1.jpg](https://i.imgur.com/Uhy4NbU.jpeg)
 
 ### int：為整數
 

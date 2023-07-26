@@ -203,7 +203,7 @@ insert(0,1)：
 
 ### pop
 
-![圖片9.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dba53cb7-f8d3-462a-b9db-31c87b7c71f4/%E5%9C%96%E7%89%879.jpg)
+![圖片9.jpg](https://i.imgur.com/BC077Fq.jpeg)
 
 ### remove：如同del，但又不完全相似。
 

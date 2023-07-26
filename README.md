@@ -235,7 +235,7 @@ x.remove(4)：這之中的4為刪除的數值。
 
 ### 4.**股市圖_mptplotlib**
 
-![圖片11.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/38c578cb-7682-452d-bd14-88cd8c4f60e3/%E5%9C%96%E7%89%8711.jpg)
+![圖片11.jpg](https://i.imgur.com/L1gBOVM.jpeg)
 
 ![圖片12.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f7fde211-ba09-4a10-8209-8a3803d5da01/%E5%9C%96%E7%89%8712.jpg)
 

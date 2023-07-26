@@ -199,7 +199,7 @@ insert(0,1)：
 
 ### index：尋找物件的位置。
 
-![圖片6.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/654787d9-f24d-4fb6-ab06-a371cf274b92/%E5%9C%96%E7%89%876.jpg)
+![圖片6.jpg](https://i.imgur.com/k1GKtg9.jpeg)
 
 ### pop
 

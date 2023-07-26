@@ -151,7 +151,7 @@ shell：一行一行執行程式碼。
 
 ### dir：用dir(list)可顯示list的參數。
 
-![圖片2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ede38e9b-c9da-42c2-b077-a470fac704b4/%E5%9C%96%E7%89%872.png)
+![圖片2.png](https://i.imgur.com/uOWk0gG.png)
 
 ### +：這是最簡單的方法
 

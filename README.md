@@ -213,7 +213,7 @@ x.remove(4)：這之中的4為刪除的數值。
 
 ### reverse：把原先內容的倒返回來。
 
-![圖片7.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/123651e0-a5a6-45ef-a86c-b26d01565856/%E5%9C%96%E7%89%877.jpg)
+![圖片7.jpg](https://i.imgur.com/dUYkBhW.jpeg)
 
 ### sort：將原先內容排序。
 

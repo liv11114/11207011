@@ -71,7 +71,7 @@
 
 安裝PyGame
 
-[](https://ithelp.ithome.com.tw/articles/10209243)
+[Day27-安裝使用PyGame套件](https://ithelp.ithome.com.tw/articles/10209243)
 
 python -m pip install --upgrade pip
 

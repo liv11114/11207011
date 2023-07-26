@@ -139,9 +139,9 @@ Excel檔資料： http://www.twse.com.tw/exchangeReport/MI_INDEX?response=csv&da
 
 ## 1.Python Online
 
-![圖片1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ca794f56-7734-4ed6-a972-b62270d68008/%E5%9C%96%E7%89%871.png)
+![圖片1.png](https://i.imgur.com/9u0zQ8G.png)
 
-![圖片10.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3fe23555-5e72-41f6-a88d-83397934a9d8/%E5%9C%96%E7%89%8710.png)
+![圖片10.png](https://i.imgur.com/gmx1s7n.png)
 
 [Online Python Compiler (Interpreter)](https://www.programiz.com/python-programming/online-compiler/)
 

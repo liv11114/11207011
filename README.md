@@ -155,7 +155,7 @@ shell：一行一行執行程式碼。
 
 ### +：這是最簡單的方法
 
-![圖片3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9334b9d4-8d8f-4930-9ee3-349eb957eaf6/%E5%9C%96%E7%89%873.png)
+![圖片3.png](https://i.imgur.com/djcxbjt.png)
 
 ### append：x.append()，不能(數字 , 數字)，能(數字)；如果加[數字 , 數字]在( )裡面，會變成(數字 ,數字 ,數字 ,數字 ,數字 ,[數字 , 數字])
 
@@ -165,7 +165,7 @@ shell：一行一行執行程式碼。
 
 ### extend
 
-![圖片4.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/52ffd874-4284-4c1f-a3e8-2251f333290d/%E5%9C%96%E7%89%874.png)
+![圖片4.png](https://i.imgur.com/Qep39DU.png)
 
 ### del
 

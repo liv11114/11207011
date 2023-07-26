@@ -99,7 +99,7 @@ python -m pip install --upgrade pip
 
 ## NumPy(實作)：
 
-![圖片2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/76301f71-5a7a-4585-85ff-71952ff29024/%E5%9C%96%E7%89%872.png)
+![圖片2.png](https://i.imgur.com/YFb6tCA.png)
 
 ![圖片3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ada881d1-2ea7-4bc8-bc6c-3c1fb7208f4e/%E5%9C%96%E7%89%873.png)
 

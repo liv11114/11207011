@@ -123,7 +123,7 @@ CuPy庫：
 
 ## ****Python 時間序列實作****
 
-![圖片5.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1c13bda9-20b7-4e63-b207-a591431e85fe/%E5%9C%96%E7%89%875.png)
+![圖片5.png](https://i.imgur.com/TqiH6aQ.png)
 
 success ：成功
 

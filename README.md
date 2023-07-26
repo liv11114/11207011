@@ -161,7 +161,7 @@ shell：一行一行執行程式碼。
 
 ### 例：x=[1,2,3,4]，x.append([5,6])，x，[1,2,3,4,[5,6]]
 
-![圖片5.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cd1bfe99-e89f-4579-87c8-b5e48ef41986/%E5%9C%96%E7%89%875.jpg)
+![圖片5.jpg](https://i.imgur.com/OC2X1cW.jpeg)
 
 ### extend
 

@@ -67,7 +67,7 @@
 
 [ASMR Programming - Coding a Snake Game - No Talking](https://www.youtube.com/watch?v=Wlu4MsBnjuk&t=747s)
 
-字串要注意!!!
+<font color="red">字串要注意!!!</font>
 
 安裝PyGame
 

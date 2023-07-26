@@ -284,11 +284,11 @@ x.remove(4)：這之中的4為刪除的數值。
 
 ### 5-1.寫出程式
 
-![圖片5.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/90b0d8d3-81a3-4534-8904-a2a4c22f29d2/%E5%9C%96%E7%89%875.png)
+![圖片5.png](https://i.imgur.com/Wq42d3d.png)
 
 ## 6.**撰寫一支Python程式**
 
-![圖片4.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/135c278b-5759-4c5a-beb7-f2da19816aa0/%E5%9C%96%E7%89%874.png)
+![圖片4.png](https://i.imgur.com/sWX0aXm.png)
 
 [](https://ithelp.ithome.com.tw/articles/10212365)
 

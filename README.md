@@ -67,7 +67,7 @@
 
 [ASMR Programming - Coding a Snake Game - No Talking](https://www.youtube.com/watch?v=Wlu4MsBnjuk&t=747s)
 
-=字串要注意!!!=
+字串要注意!!!
 
 安裝PyGame
 
@@ -81,7 +81,7 @@ python -m pip install --upgrade pip
 
 ## AutoHotKey應用(視窗置頂)：
 
-![圖片1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6b1f6acd-48fc-4687-a4cc-fee7b79a4e09/%E5%9C%96%E7%89%871.png)
+![圖片1.png](https://i.imgur.com/k8tID4i.png)
 
 ### 使用1.1版本
 

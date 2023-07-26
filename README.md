@@ -260,11 +260,11 @@ x.remove(4)：這之中的4為刪除的數值。
 
 ### Ctrl+K  Ctrl+T 可換VS Code外觀
 
-![圖片2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ab73c78b-35e7-471c-9510-4e3f07b9ba9c/%E5%9C%96%E7%89%872.png)
+![圖片2.png](https://i.imgur.com/7rJtuoV.png)
 
 ## 2.安裝外掛
 
-![圖片3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bdad2eb7-5889-4e14-bf13-52f94edd0891/%E5%9C%96%E7%89%873.png)
+![圖片3.png](https://i.imgur.com/HIrTJJN.png)
 
 ## 3.**Visual Studio Code切換成中文版**
 

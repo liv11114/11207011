@@ -42,7 +42,6 @@
 
 [Python 之父说 Python ｜小甲鱼原创翻译—听听国外大神怎么说](https://youtu.be/kVPO91dzems)
 
-
 # [第二天](https://helpful-duckling-581.notion.site/15cbcd5c79fb4798807fcdbedcffcfea?pvs=4)
 
 > 遊戲引擎、容器資料、****資料****容器、貪吃蛇遊戲、Spyder、安裝PyGame

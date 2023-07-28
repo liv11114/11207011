@@ -317,3 +317,78 @@ x.remove(4)：這之中的4為刪除的數值。
 [ShareX 電腦免費截圖工具 – 可上傳雲端空間或網路圖床，也可擷取圖片文字](https://kkplay3c.net/sharex/#ShareX_%E6%9C%89%E5%85%8D%E5%AE%89%E8%A3%9D%E7%89%88%E6%9C%AC%E3%80%81%E5%AE%89%E8%A3%9D%E7%89%88%E6%9C%AC)
 
 [ShareX - The best free and open source screenshot tool for Windows](https://getsharex.com/)
+
+# [第五天](https://helpful-duckling-581.notion.site/49269d62500e4c0d9b60001865dbbb18?pvs=4)
+
+> list、numpy、pandas畫圖、Series、DataFrame、pip install….
+>
+
+## 1.list畫圖
+
+**使用Matplotlib繪製圖表**
+
+[](https://ithelp.ithome.com.tw/m/articles/10275865)
+
+![圖片2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/99e8bfc2-3162-4d8f-8591-bcf026c4fac2/%E5%9C%96%E7%89%872.png)
+
+![圖片3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/eab0ce76-36b9-4721-82c1-fa4ffa57c1cd/%E5%9C%96%E7%89%873.png)
+
+## 2.numpy畫圖
+
+**NumPy Matplotlib**
+
+[NumPy  Matplotlib | 菜鸟教程](https://www.runoob.com/numpy/numpy-matplotlib.html)
+
+![圖片4.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b58d8bd2-aa62-40ea-8df3-0533243fa5e6/%E5%9C%96%E7%89%874.png)
+
+![圖片5.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d2386ff6-f733-470e-b7ce-deeedc2f8f3c/%E5%9C%96%E7%89%875.png)
+
+## 3.pandas畫圖
+
+### Python股市圖
+
+![圖片11.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3819215c-c1a7-4d19-afae-7f05bb86712d/%E5%9C%96%E7%89%8711.png)
+
+![圖片12.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2fa6566b-cde9-4225-9b08-d6a4ed7cc53a/%E5%9C%96%E7%89%8712.png)
+
+![圖片13.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7a9fd556-7027-4a5f-9a94-b04a586f9529/%E5%9C%96%E7%89%8713.png)
+
+![圖片14.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1f83f67d-faea-478a-b029-894348e6187c/%E5%9C%96%E7%89%8714.png)
+
+### 有關list的圖
+
+![圖片9.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9407a25d-985f-483d-a855-e005f81af1a0/%E5%9C%96%E7%89%879.png)
+
+![圖片3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/15906887-d0ad-4c77-ac50-db586d63dbd7/%E5%9C%96%E7%89%873.png)
+
+### 有關Numpy的圖
+
+![圖片15.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2076613e-1600-4deb-a90b-c406f300ff72/%E5%9C%96%E7%89%8715.png)
+
+![圖片16.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f583b47b-f3d0-4493-a670-6a17a234d9d3/%E5%9C%96%E7%89%8716.png)
+
+## 4.下載Code Runner
+
+### 不下載Code Runner就沒有Run鍵
+
+![圖片1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/19fbdeb7-254e-41cb-9ce2-da2eb08a20ac/%E5%9C%96%E7%89%871.png)
+
+## 3.DataFrame和Series
+
+### ****[Day06]Pandas的兩種資料類型！****
+
+[](https://ithelp.ithome.com.tw/articles/10193394)
+
+## 4.pip install….
+
+### matplotlib的安裝
+
+![圖片6.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3312dab8-2e6d-438c-8522-7be3819d024b/%E5%9C%96%E7%89%876.png)
+
+### yfinance的安裝
+
+![圖片7.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/351816c0-8c96-4a1d-9b41-fa9b687c039c/%E5%9C%96%E7%89%877.png)
+
+### pandas的安裝
+
+![圖片8.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f0c62c48-f9b2-457d-9f20-5bb477d3ef3f/%E5%9C%96%E7%89%878.png)

@@ -318,7 +318,8 @@ x.remove(4)：這之中的4為刪除的數值。
 
 [ShareX - The best free and open source screenshot tool for Windows](https://getsharex.com/)
 
-# [第五天](https://helpful-duckling-581.notion.site/49269d62500e4c0d9b60001865dbbb18?pvs=4)
+
+# [第六天](https://helpful-duckling-581.notion.site/49269d62500e4c0d9b60001865dbbb18?pvs=4)
 
 > list、numpy、pandas畫圖、Series、DataFrame、pip install….
 >

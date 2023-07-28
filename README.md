@@ -378,6 +378,10 @@ x.remove(4)：這之中的4為刪除的數值。
 
 ### [(Day06) Pandas的兩種資料類型！](https://ithelp.ithome.com.tw/articles/10193394)
 
+DataFrame：
+
+Series：
+
 ## 4.pip install….
 
 ### matplotlib的安裝

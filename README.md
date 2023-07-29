@@ -348,6 +348,8 @@ x.remove(4)：這之中的4為刪除的數值。
 
 ### Python股市圖
 
+### [NumPy Matplotlib](https://www.runoob.com/numpy/numpy-matplotlib.html)
+
 ![圖片11.png](Photos-001%20(3)/圖片11.png)
 
 ![圖片12.png](Photos-001%20(3)/圖片12.png)

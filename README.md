@@ -254,11 +254,11 @@ x.remove(4)：這之中的4為刪除的數值。
 
 ### 點選Download
 
-![圖片22.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/06e35e49-ad89-4944-bd71-20fab65b4532/%E5%9C%96%E7%89%8722.png)
+![圖片22.png](Photos-001%20(3)/圖片22.png)
 
 ### 點選Windows下載
 
-![圖片23.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/acd0d676-31ef-42ea-bfe5-a5cc0f834d30/%E5%9C%96%E7%89%8723.png)
+![圖片23.png](Photos-001%20(3)/圖片23.png)
 
 ### 最終成為下面模樣
 

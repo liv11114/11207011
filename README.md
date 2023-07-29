@@ -260,7 +260,7 @@ x.remove(4)：這之中的4為刪除的數值。
 
 ![圖片23.png](Photos-001%20(3)/圖片23.png)
 
-### 最終成為下面模樣
+### 最終成為如下
 
 ![圖片1.png](https://i.imgur.com/fQYm7AO.png)
 

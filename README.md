@@ -348,7 +348,7 @@ x.remove(4)：這之中的4為刪除的數值。
 
 ### Python股市圖
 
-### [NumPy Matplotlib](https://www.runoob.com/numpy/numpy-matplotlib.html)
+### [Python 中的歷史股價數據](https://towardsdatascience.com/historical-stock-price-data-in-python-a0b6dc826836)
 
 ![圖片11.png](Photos-001%20(3)/圖片11.png)
 

@@ -338,11 +338,11 @@ x.remove(4)：這之中的4為刪除的數值。
 
 **NumPy Matplotlib**
 
-[NumPy  Matplotlib | 菜鸟教程](https://www.runoob.com/numpy/numpy-matplotlib.html)
+### [NumPy  Matplotlib | 菜鸟教程](https://www.runoob.com/numpy/numpy-matplotlib.html)
 
-![圖片4.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b58d8bd2-aa62-40ea-8df3-0533243fa5e6/%E5%9C%96%E7%89%874.png)
+![圖片4.png](Photos-001%20(3)/圖片4.png)
 
-![圖片5.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d2386ff6-f733-470e-b7ce-deeedc2f8f3c/%E5%9C%96%E7%89%875.png)
+![圖片5.png](Photos-001%20(3)/圖片5.png)
 
 ## 3.pandas畫圖
 

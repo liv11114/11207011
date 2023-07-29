@@ -372,7 +372,7 @@ x.remove(4)：這之中的4為刪除的數值。
 
 ### 不下載Code Runner就沒有Run鍵
 
-![圖片1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/19fbdeb7-254e-41cb-9ce2-da2eb08a20ac/%E5%9C%96%E7%89%871.png)
+![圖片1.png](001-20(3)/圖片1.png)
 
 ## 3.DataFrame和Series
 

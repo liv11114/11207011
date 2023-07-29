@@ -386,12 +386,12 @@ Series：
 
 ### matplotlib的安裝
 
-![圖片6.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3312dab8-2e6d-438c-8522-7be3819d024b/%E5%9C%96%E7%89%876.png)
+![圖片6.png](Photos-001%20(3)/圖片6.png)
 
 ### yfinance的安裝
 
-![圖片7.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/351816c0-8c96-4a1d-9b41-fa9b687c039c/%E5%9C%96%E7%89%877.png)
+![圖片7.png](Photos-001%20(3)/圖片7.png)
 
 ### pandas的安裝
 
-![圖片8.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f0c62c48-f9b2-457d-9f20-5bb477d3ef3f/%E5%9C%96%E7%89%878.png)
+![圖片8.png](Photos-001%20(3)/圖片8.png)

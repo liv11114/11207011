@@ -348,25 +348,25 @@ x.remove(4)：這之中的4為刪除的數值。
 
 ### Python股市圖
 
-![圖片11.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3819215c-c1a7-4d19-afae-7f05bb86712d/%E5%9C%96%E7%89%8711.png)
+![圖片11.png](Photos-001%20(3)/圖片11.png)
 
-![圖片12.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2fa6566b-cde9-4225-9b08-d6a4ed7cc53a/%E5%9C%96%E7%89%8712.png)
+![圖片12.png](Photos-001%20(3)/圖片12.png)
 
-![圖片13.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7a9fd556-7027-4a5f-9a94-b04a586f9529/%E5%9C%96%E7%89%8713.png)
+![圖片13.png](Photos-001%20(3)/圖片13.png)
 
-![圖片14.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1f83f67d-faea-478a-b029-894348e6187c/%E5%9C%96%E7%89%8714.png)
+![圖片14.png](Photos-001%20(3)/圖片14.png)
 
 ### 有關list的圖
 
-![圖片9.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9407a25d-985f-483d-a855-e005f81af1a0/%E5%9C%96%E7%89%879.png)
+![圖片9.png](Photos-001%20(3)/圖片9.png)
 
-![圖片3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/15906887-d0ad-4c77-ac50-db586d63dbd7/%E5%9C%96%E7%89%873.png)
+![圖片3.png](Photos-001%20(3)/圖片3.png)
 
 ### 有關Numpy的圖
 
-![圖片15.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2076613e-1600-4deb-a90b-c406f300ff72/%E5%9C%96%E7%89%8715.png)
+![圖片15.png](Photos-001%20(3)/圖片15.png)
 
-![圖片16.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f583b47b-f3d0-4493-a670-6a17a234d9d3/%E5%9C%96%E7%89%8716.png)
+![圖片16.png](Photos-001%20(3)/圖片16.png)
 
 ## 4.下載Code Runner
 

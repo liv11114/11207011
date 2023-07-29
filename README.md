@@ -328,11 +328,11 @@ x.remove(4)：這之中的4為刪除的數值。
 
 **使用Matplotlib繪製圖表**
 
-[](https://ithelp.ithome.com.tw/m/articles/10275865)
+[使用Matplotlib繪製圖表](https://ithelp.ithome.com.tw/m/articles/10275865)
 
-![圖片2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/99e8bfc2-3162-4d8f-8591-bcf026c4fac2/%E5%9C%96%E7%89%872.png)
+![圖片2.png](Photos-001%20(3)/圖片2.png)
 
-![圖片3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/eab0ce76-36b9-4721-82c1-fa4ffa57c1cd/%E5%9C%96%E7%89%873.png)
+![圖片3.png](Photos-001%20(3)/圖片3.png)
 
 ## 2.numpy畫圖
 

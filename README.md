@@ -300,9 +300,17 @@ x.remove(4)：這之中的4為刪除的數值。
 
 [](https://ithelp.ithome.com.tw/articles/10212365)
 
-## 7.Markdown
+## 7.Markdown範例
 
+### ### 三级標題，## 二级標題，# 一级標題
 
+### **粗 體**
+
+### [連 結]( https://zh.wikipedia. org/zh-tw/Markdown )
+
+### ![圖 片](圖1 .jpg)  ……。
+
+[Markdown - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/Markdown)
 
 ## 8.****ShareX 電腦免費截圖工具****
 

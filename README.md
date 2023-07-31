@@ -388,9 +388,9 @@ x.remove(4)：這之中的4為刪除的數值。
 
 ### [(Day06) Pandas的兩種資料類型！](https://ithelp.ithome.com.tw/articles/10193394)
 
-DataFrame：
+### DataFrame：類似於Excel形式的表格資料，可以用index或column找尋資料
 
-Series：
+### Series：類似儲存一維陣列的資料。
 
 ## 4.pip install….
 

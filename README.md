@@ -111,13 +111,9 @@ python -m pip install --upgrade pip
 
 [pandas - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/Pandas)
 
-TPU：
+TensorFlow：TensorFlow是Google大腦所研發的開源軟體函式庫。
 
-GPU：
-
-TensorFlow：
-
-CuPy庫：
+[TensorFlow - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/TensorFlow)
 
 ## ****Python 時間序列實作****
 

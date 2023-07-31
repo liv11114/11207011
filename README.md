@@ -306,7 +306,7 @@ x.remove(4)：這之中的4為刪除的數值。
 
 ### **粗 體**
 
-### [連 結]( https://zh.wikipedia. org/zh-tw/Markdown )
+### [連 結]( https://zh.wikipedia.org/zh-tw/Markdown )
 
 ### ![圖 片](圖1 .jpg)  ……。
 
